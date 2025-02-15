@@ -1,0 +1,199 @@
+[
+  {
+    "factures": [
+      {
+        "montant": 100.0,
+        "colis": {
+          "Taille": 10.0,
+          "Type": 1
+        },
+        "date": "2024-05-10T00:00:00",
+        "Num_livreur": 123456789,
+        "lieu_départ": "Paris",
+        "lieu_arrivée": "Lyon",
+        "Idclient": 123456789
+      },
+      {
+        "montant": 150.0,
+        "colis": {
+          "Taille": 15.0,
+          "Type": 2
+        },
+        "date": "2024-05-11T00:00:00",
+        "Num_livreur": 456789012,
+        "lieu_départ": "Marseille",
+        "lieu_arrivée": "Nice",
+        "Idclient": 123456789
+      }
+    ],
+    "NumSS": 123456789,
+    "Nom": "Dupuit",
+    "Prenom": "Alice",
+    "DateNaissance": "1990-05-15T00:00:00",
+    "AdressePostale": "1 rue de Paris",
+    "AdresseMail": "alice.dupont@example.com",
+    "Telephone": "0123456789"
+  },
+  {
+    "factures": [
+      {
+        "montant": 200.0,
+        "colis": {
+          "Taille": 20.0,
+          "Type": 3
+        },
+        "date": "2024-05-12T00:00:00",
+        "Num_livreur": 123456789,
+        "lieu_départ": "Toulouse",
+        "lieu_arrivée": "Bordeaux",
+        "Idclient": 987654321
+      }
+    ],
+    "NumSS": 987654321,
+    "Nom": "Martin",
+    "Prenom": "Bob",
+    "DateNaissance": "1985-10-20T00:00:00",
+    "AdressePostale": "5 avenue du Soleil",
+    "AdresseMail": "bob.martin@example.com",
+    "Telephone": "0987654321"
+  },
+  {
+    "factures": [
+      {
+        "montant": 120.0,
+        "colis": {
+          "Taille": 12.0,
+          "Type": 0
+        },
+        "date": "2024-05-13T00:00:00",
+        "Num_livreur": 12345678,
+        "lieu_départ": "Lille",
+        "lieu_arrivée": "Strasbourg",
+        "Idclient": 456789123
+      }
+    ],
+    "NumSS": 456789123,
+    "Nom": "Durand",
+    "Prenom": "Claire",
+    "DateNaissance": "1978-03-08T00:00:00",
+    "AdressePostale": "10 rue des Lilas",
+    "AdresseMail": "claire.durand@example.com",
+    "Telephone": "0456789123"
+  },
+  {
+    "factures": [],
+    "NumSS": 789123456,
+    "Nom": "Lefebvre",
+    "Prenom": "David",
+    "DateNaissance": "1982-12-25T00:00:00",
+    "AdressePostale": "15 rue de la Paix",
+    "AdresseMail": "david.lefebvre@example.com",
+    "Telephone": "0789123456"
+  },
+  {
+    "factures": [],
+    "NumSS": 321654987,
+    "Nom": "Moreau",
+    "Prenom": "Emma",
+    "DateNaissance": "1995-08-30T00:00:00",
+    "AdressePostale": "20 avenue des Roses",
+    "AdresseMail": "emma.moreau@example.com",
+    "Telephone": "0321654987"
+  },
+  {
+    "factures": [],
+    "NumSS": 654987321,
+    "Nom": "Garcia",
+    "Prenom": "Franck",
+    "DateNaissance": "1980-06-12T00:00:00",
+    "AdressePostale": "25 rue du Commerce",
+    "AdresseMail": "franck.garcia@example.com",
+    "Telephone": "0654987321"
+  },
+  {
+    "factures": [],
+    "NumSS": 147258369,
+    "Nom": "Dubois",
+    "Prenom": "Gaelle",
+    "DateNaissance": "1975-09-17T00:00:00",
+    "AdressePostale": "30 boulevard Voltaire",
+    "AdresseMail": "gaelle.dubois@example.com",
+    "Telephone": "0147258369"
+  },
+  {
+    "factures": [],
+    "NumSS": 258369147,
+    "Nom": "Morel",
+    "Prenom": "Hugo",
+    "DateNaissance": "1987-02-03T00:00:00",
+    "AdressePostale": "35 rue des Champs",
+    "AdresseMail": "hugo.morel@example.com",
+    "Telephone": "0258369147"
+  },
+  {
+    "factures": [],
+    "NumSS": 369147258,
+    "Nom": "Roux",
+    "Prenom": "Inès",
+    "DateNaissance": "1992-11-28T00:00:00",
+    "AdressePostale": "40 avenue de la Liberté",
+    "AdresseMail": "ines.roux@example.com",
+    "Telephone": "0369147258"
+  },
+  {
+    "factures": [],
+    "NumSS": 951753852,
+    "Nom": "Leroy",
+    "Prenom": "Julie",
+    "DateNaissance": "1988-07-05T00:00:00",
+    "AdressePostale": "45 rue Victor Hugo",
+    "AdresseMail": "julie.leroy@example.com",
+    "Telephone": "0951753852"
+  },
+  {
+    "factures": [
+      {
+        "montant": 1000.0,
+        "colis": {
+          "Taille": 234.0,
+          "Type": 2
+        },
+        "date": "2000-12-12T00:00:00",
+        "Num_livreur": 12345678,
+        "lieu_départ": "Paris",
+        "lieu_arrivée": "Avignon",
+        "Idclient": 594088048
+      }
+    ],
+    "NumSS": 594088048,
+    "Nom": "Loic",
+    "Prenom": "dfg",
+    "DateNaissance": "2023-12-12T00:00:00",
+    "AdressePostale": "sdfg",
+    "AdresseMail": "loicporrac@gmail.com",
+    "Telephone": "sdfg"
+  },
+  {
+    "factures": [
+      {
+        "montant": 750.0,
+        "colis": {
+          "Taille": 234.0,
+          "Type": 2
+        },
+        "date": "2025-12-12T00:00:00",
+        "Num_livreur": 12345678,
+        "lieu_départ": "Paris",
+        "lieu_arrivée": "Angers",
+        "Idclient": 493649702
+      }
+    ],
+    "NumSS": 493649702,
+    "Nom": "Laroudie",
+    "Prenom": "Alex",
+    "DateNaissance": "2003-07-13T00:00:00",
+    "AdressePostale": "zerfg",
+    "AdresseMail": "laroudiealexandre@gmail.com",
+    "Telephone": "zertg"
+  }
+]
